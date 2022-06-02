@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1;
+  padding: 10px;
+  color: black;
+  font-size: 14px;
+  border-bottom: 1px solid #3e5760;
+}
+.header_logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header_logo-text {
+  margin-left: 5px;
+}
+.header_links a {
+  margin-inline: 5px;
+}
